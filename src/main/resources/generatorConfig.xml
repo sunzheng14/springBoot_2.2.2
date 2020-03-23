@@ -65,5 +65,8 @@
 <!--        <table tableName="User" domainObjectName="User">-->
 <!--            <property name="useActualColumnNames" value="true"/>-->
 <!--        </table>-->
+<!--                <table tableName="t_user" domainObjectName="TUser">-->
+<!--                    <property name="useActualColumnNames" value="true"/>-->
+<!--                </table>-->
     </context>
 </generatorConfiguration>
